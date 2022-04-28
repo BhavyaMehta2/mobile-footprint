@@ -1,0 +1,130 @@
+[
+ {
+  "Model": "Apple iPhone 12 Pro Max",
+  "CO2emissions": "86kg",
+  "Production": 0.82,
+  "Transport": 0.02,
+  "Usage": 0.15,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone 12 Pro",
+  "CO2emissions": "82kg",
+  "Production": 0.86,
+  "Transport": 0.02,
+  "Usage": 0.11,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone 12",
+  "CO2emissions": "70kg",
+  "Production": 0.83,
+  "Transport": 0.02,
+  "Usage": 0.14,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone 12 Mini",
+  "CO2emissions": "64kg",
+  "Production": 0.85,
+  "Transport": 0.02,
+  "Usage": 0.12,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone SE (2nd gen)",
+  "CO2emissions": "57kg",
+  "Production": 0.84,
+  "Transport": 0.03,
+  "Usage": 0.12,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone 11 Pro Max",
+  "CO2emissions": "86kg",
+  "Production": 0.78,
+  "Transport": 0.03,
+  "Usage": 0.18,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone 11 Pro",
+  "CO2emissions": "80kg",
+  "Production": 0.83,
+  "Transport": 0.03,
+  "Usage": 0.13,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone 11",
+  "CO2emissions": "72kg",
+  "Production": 0.79,
+  "Transport": 0.03,
+  "Usage": 0.17,
+  "Recycling": "<1%"
+ },
+ {
+  "Model": "Apple iPhone XS Max",
+  "CO2emissions": "77kg",
+  "Production": 0.79,
+  "Transport": 0.03,
+  "Usage": 0.17,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone XS",
+  "CO2emissions": "70kg",
+  "Production": 0.81,
+  "Transport": 0.03,
+  "Usage": 0.15,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone XR",
+  "CO2emissions": "62kg",
+  "Production": 0.76,
+  "Transport": 0.04,
+  "Usage": 0.19,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone X ",
+  "CO2emissions": "79kg",
+  "Production": 0.8,
+  "Transport": 0.02,
+  "Usage": 0.17,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone 8 Plus",
+  "CO2emissions": "68kg",
+  "Production": 0.79,
+  "Transport": 0.03,
+  "Usage": 0.17,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone 8 ",
+  "CO2emissions": "57kg",
+  "Production": 0.8,
+  "Transport": 0.03,
+  "Usage": 0.16,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone 7 Plus",
+  "CO2emissions": "67kg",
+  "Production": 0.78,
+  "Transport": 0.03,
+  "Usage": 0.18,
+  "Recycling": 0.01
+ },
+ {
+  "Model": "Apple iPhone 7",
+  "CO2emissions": "56kg",
+  "Production": 0.78,
+  "Transport": 0.03,
+  "Usage": 0.18,
+  "Recycling": 0.01
+ }
+]

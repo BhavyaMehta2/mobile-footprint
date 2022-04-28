@@ -5,6 +5,7 @@ import theme from "theme";
 import SEO from "components/seo";
 import Layout from "components/layout";
 import Table from "components/table";
+import model from "components/model.json";
 import Services from "sections/services";
 import Testimonials from "sections/testimonials";
 import Blogs from "sections/blogs";
@@ -21,7 +22,7 @@ export async function getStaticProps() {
   };
 }
 
-export default function IndexPage({model}) {
+export default function IndexPage() {
   return (
     <ThemeProvider theme={theme}>
       <StickyProvider>
