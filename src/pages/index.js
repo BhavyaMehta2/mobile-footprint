@@ -12,6 +12,7 @@ import Blogs from "sections/blogs";
 import FAQ from "sections/faq";
 import Subscribe from "sections/subscribe";
 import Banner from "sections/banner";
+/*
 export async function getStaticProps() {
   const cRes = await fetch("http://localhost:3000/model.json");
   const models = await cRes.json();
@@ -21,6 +22,7 @@ export async function getStaticProps() {
     },
   };
 }
+*/
 
 export default function IndexPage() {
   return (
